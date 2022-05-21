@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/GroupDemo.iml" filepath="$PROJECT_DIR$/.idea/GroupDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/horse/horse.iml" filepath="$PROJECT_DIR$/horse/horse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>
